@@ -552,16 +552,15 @@ class PlayState extends MusicBeatState
 				 GameOverSubstate.loopSoundName = 'gameOverAlt';
 				 GameOverSubstate.endSoundName = 'gameOverAltEnd';
 				 blackBG = new BGSprite('blackbg', 0, -400, 0, 0);
-				 blackBG.visible = false;
+				 blackBG.alpha = 0;
 				 blackBG.updateHitbox();
 				 blackBG.screenCenter(X);
                  add (blackBG);
 				 blackTransition = new BGSprite('transition', 0, -400, 0, 0, ['transition'], false);
 				 blackTransition.screenCenter(X);
 				 blackTransition.updateHitbox();
-				 blackTransition.visible = false;
+				 blackTransition.alpha = 0;
 				 blackTransition.antialiasing = false;
-				 precacheList.set('transition', 'image');
 
 			case 'stage': //Week 1
 				var bg:BGSprite = new BGSprite('stageback', -600, -200, 0.9, 0.9);
@@ -3397,9 +3396,9 @@ class PlayState extends MusicBeatState
 
 				switch(value1.toLowerCase().trim()) {
 					case '0':
-						 blackBG.visible = true;
+						 blackBG.alpha = 1;
 					case '1':
-						 blackBG.visible = false;
+						 blackBG.alpha = 0;
 				}
 
 
@@ -3408,10 +3407,10 @@ class PlayState extends MusicBeatState
 				switch(value1.toLowerCase().trim()) {
 					case '0':
 						 blackTransition.dance(true);
-				         blackTransition.visible = true;
+				         blackTransition.alpha = 1;
 					case '1':
 						 blackTransition.dance(false);
-				         blackTransition.visible = false;
+				         blackTransition.alpha = 0;
 						 
 					}
 		

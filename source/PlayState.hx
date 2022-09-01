@@ -1087,7 +1087,7 @@ class PlayState extends MusicBeatState
 
 		var showTime:Bool = (ClientPrefs.timeBarType != 'Disabled');
 		timeTxt = new FlxText(STRUM_X + (FlxG.width / 2) - 248, 19, 400, "", 32);
-		timeTxt.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		timeTxt.setFormat(Paths.font("robloxfont.ttf"), 32, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		timeTxt.scrollFactor.set();
 		timeTxt.alpha = 0;
 		timeTxt.borderSize = 2;
@@ -1109,7 +1109,7 @@ class PlayState extends MusicBeatState
 		timeBarBG.color = FlxColor.BLACK;
 		timeBarBG.xAdd = -4;
 		timeBarBG.yAdd = -4;
-		add(timeBarBG);
+		// add(timeBarBG);
 
 		timeBar = new FlxBar(timeBarBG.x + 4, timeBarBG.y + 4, LEFT_TO_RIGHT, Std.int(timeBarBG.width - 8), Std.int(timeBarBG.height - 8), this,
 			'songPercent', 0, 1);
@@ -1118,7 +1118,7 @@ class PlayState extends MusicBeatState
 		timeBar.numDivisions = 800; //How much lag this causes?? Should i tone it down to idk, 400 or 200?
 		timeBar.alpha = 0;
 		timeBar.visible = showTime;
-		add(timeBar);
+		// add(timeBar);
 		add(timeTxt);
 		timeBarBG.sprTracker = timeBar;
 
@@ -2336,8 +2336,11 @@ class PlayState extends MusicBeatState
 
 		// Song duration in a float, useful for the time left feature
 		songLength = FlxG.sound.music.length;
-		FlxTween.tween(timeBar, {alpha: 1}, 0.5, {ease: FlxEase.circOut});
-		FlxTween.tween(timeTxt, {alpha: 1}, 0.5, {ease: FlxEase.circOut});
+		if (curSong != 'fourth-power')
+		{
+		             FlxTween.tween(timeTxt, {alpha: 1}, 0.5, {ease: FlxEase.circOut});
+		}
+
 
 		switch(curStage)
 		{
@@ -4599,17 +4602,6 @@ class PlayState extends MusicBeatState
 		note.hitByOpponent = true;
 
 		callOnLuas('opponentNoteHit', [notes.members.indexOf(note), Math.abs(note.noteData), note.noteType, note.isSustainNote]);
-		
-		if (note.noteType == 'Punch Note')
-		{
-			 dad.playAnim('Punch', true);
-			 dad.specialAnim = true;
-			 boyfriend.playAnim('Block', true);
-			 boyfriend.specialAnim = true;
-			 gf.playAnim('Block');
-			 gf.specialAnim = true;
-			 health -= 0.1;	 
-		}
 
 		if (!note.isSustainNote)
 		{
@@ -4621,6 +4613,7 @@ class PlayState extends MusicBeatState
 
 	function goodNoteHit(note:Note):Void
 	{
+
 		if (!note.wasGoodHit)
 		{
 			if(cpuControlled && (note.ignoreNote || note.hitCausesMiss)) return;
@@ -4648,6 +4641,7 @@ class PlayState extends MusicBeatState
 				}
 
 				note.wasGoodHit = true;
+
 				if (!note.isSustainNote)
 				{
 					note.kill();
@@ -4682,6 +4676,15 @@ class PlayState extends MusicBeatState
 					boyfriend.holdTimer = 0;
 				}
 
+				if (note.noteType == 'Punch Note') {
+			         dad.playAnim('Punch', true);
+		         	 dad.specialAnim = true;
+	        		 boyfriend.playAnim('Block', true);
+		        	 boyfriend.specialAnim = true;
+	         		 gf.playAnim('Block');
+		        	 gf.specialAnim = true;
+		        	 health -= 0.1;	 
+		        }
 				if(note.noteType == 'Hey!') {
 					if(boyfriend.animOffsets.exists('hey')) {
 						boyfriend.playAnim('hey', true);

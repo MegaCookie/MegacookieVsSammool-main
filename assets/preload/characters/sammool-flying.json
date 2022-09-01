@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				197
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Sammool MISSUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				202
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sammool Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-155,
+				146
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sammool Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-163,
+				146
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Sammool MISSLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-123,
+				55
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sammool Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-133,
+				55
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Sammool MISSDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-121,
+				142
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sammool Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-121,
+				140
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Sammool MISSRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-190,
+				148
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Block",
+			"indices": [],
+			"name": "Sammool Block"
+		},
+		{
+			"offsets": [
+				-106,
+				148
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sammool Idle"
+		},
+		{
+			"offsets": [
+				1176,
+				292
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "Sammool DEAD start"
+		},
+		{
+			"offsets": [
+				-260,
+				-108
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "Sammool DEAD loop"
+		},
+		{
+			"offsets": [
+				-217,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "Sammool DEAD end"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sammool-flying",
+	"position": [
+		200,
+		100
+	],
+	"healthicon": "sammool",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		25
+	],
+	"camera_position": [
+		280,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

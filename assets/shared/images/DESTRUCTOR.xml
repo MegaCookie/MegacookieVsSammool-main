@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FINALEBACKGROUND.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="what in the fuck0000" x="0" y="0" width="3228" height="1935"/>
+	<SubTexture name="what in the fuck0001" x="0" y="0" width="3228" height="1935"/>
+	<SubTexture name="what in the fuck0002" x="0" y="0" width="3228" height="1935"/>
+	<SubTexture name="what in the fuck0003" x="0" y="1985" width="3228" height="1935"/>
+	<SubTexture name="what in the fuck0004" x="0" y="1985" width="3228" height="1935"/>
+	<SubTexture name="what in the fuck0005" x="0" y="1985" width="3228" height="1935"/>
+</TextureAtlas>

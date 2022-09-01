@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				138
+			],
+			"anim": "Block",
+			"fps": 24,
+			"name": "sammoolBlock",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-131,
+				142
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sammoolRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-131,
+				142
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "sammoolMISSRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-123,
+				45
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sammoolDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-123,
+				45
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "sammoolMISSDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				146
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sammoolLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-93,
+				146
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "sammoolMISSLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				222
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sammoolUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				221
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "sammoolMISSUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-204,
+				-14
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "sammoolDEADend",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-260,
+				-108
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "sammoolDEADloop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				814,
+				524
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "sammoolDEADstart",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-107,
+				148
+			],
+			"loop": false,
+			"fps": 0,
+			"anim": "idle",
+			"indices": [],
+			"name": "sammoolINVISIBLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sammoolinvisible",
+	"position": [
+		-770,
+		230
+	],
+	"healthicon": "sammool",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		25
+	],
+	"camera_position": [
+		-240,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

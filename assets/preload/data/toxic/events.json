@@ -1,0 +1,91 @@
+{
+	"song": {
+		"events": [
+			[
+				69000,
+				[
+					[
+						"Camera Follow Pos",
+						"200",
+						"450"
+					],
+					[
+						"UI Visibility",
+						"1",
+						"0.1"
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1"
+					]
+				]
+			],
+			[
+				69843.75,
+				[
+					[
+						"Play Animation",
+						"talkstart",
+						"Dad"
+					]
+				]
+			],
+			[
+				70781.25,
+				[
+					[
+						"Play Animation",
+						"pointstart",
+						"Dad"
+					]
+				]
+			],
+			[
+				71718.75,
+				[
+					[
+						"Play Animation",
+						"thumbpoint",
+						"Dad"
+					]
+				]
+			],
+			[
+				72562.5,
+				[
+					[
+						"Play Animation",
+						"pointloop",
+						"Dad"
+					]
+				]
+			],
+			[
+				74906.25,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"UI Visibility",
+						"0",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"BF",
+						"upsetmegacookie"
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.7"
+					]
+				]
+			]
+		]
+	}
+}

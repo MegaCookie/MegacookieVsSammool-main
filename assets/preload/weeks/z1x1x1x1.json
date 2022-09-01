@@ -1,0 +1,41 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "one",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "platesfate",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"ersatz",
+			"1x1x1x1",
+			[
+				0,
+				70,
+				0
+			]
+		],
+		[
+			"fourth power",
+			"1x1x1x1",
+			[
+				0,
+				70,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": true,
+	"weekName": "Custom Week"
+}

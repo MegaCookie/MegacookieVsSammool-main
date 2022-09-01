@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="megacookieportraits.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MegaCookie Confused0000" x="260" y="327" width="153" height="277"/>
+	<SubTexture name="MegaCookie Idle0000" x="0" y="0" width="210" height="287"/>
+	<SubTexture name="MegaCookie Mad0000" x="0" y="337" width="210" height="287"/>
+	<SubTexture name="MegaCookie Sad0000" x="0" y="674" width="210" height="287"/>
+	<SubTexture name="MegaCookie Smug0000" x="260" y="0" width="156" height="277"/>
+</TextureAtlas>

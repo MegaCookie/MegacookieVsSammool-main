@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				41
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Pico NOTE LEFT miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				64
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Pico Note Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-28
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Pico Down Note MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				67
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico Up note miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-119,
+				185
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sammool Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				190
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sammool Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-23,
+				95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sammool Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-123,
+				196
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sammool Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				199
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sammool Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-120,
+				199
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "talkstart",
+			"loop": false,
+			"name": "talkstart"
+		},
+		{
+			"offsets": [
+				-123,
+				199
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "talkloop",
+			"loop": true,
+			"name": "talk loop"
+		},
+		{
+			"offsets": [
+				-123,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pointstart",
+			"loop": false,
+			"name": "pointstart"
+		},
+		{
+			"offsets": [
+				-123,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pointloop",
+			"loop": true,
+			"name": "pointloop"
+		},
+		{
+			"offsets": [
+				-123,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "thumbpoint",
+			"loop": true,
+			"name": "thumbstart"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sammool",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "sammool",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		25
+	],
+	"camera_position": [
+		20,
+		-210
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="horizontalwind.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="airflow0000" x="0" y="0" width="3076" height="764" frameX="-444" frameY="0" frameWidth="3520" frameHeight="773"/>
+	<SubTexture name="airflow0001" x="0" y="864" width="3075" height="764" frameX="0" frameY="-9" frameWidth="3520" frameHeight="773"/>
+	<SubTexture name="airflow0002" x="0" y="1728" width="1692" height="734" frameX="-1154" frameY="-7" frameWidth="3520" frameHeight="773"/>
+	<SubTexture name="airflow0003" x="0" y="2562" width="1692" height="734" frameX="-772" frameY="-12" frameWidth="3520" frameHeight="773"/>
+	<SubTexture name="airflow0004" x="1792" y="1728" width="1527" height="729" frameX="-774" frameY="-24" frameWidth="3520" frameHeight="773"/>
+</TextureAtlas>

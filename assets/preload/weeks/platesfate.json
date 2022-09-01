@@ -1,0 +1,48 @@
+{
+	"storyName": "MegaCookie vs Sammool",
+	"hideFreeplay": false,
+	"weekBackground": "roblox",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"plates",
+			"sammool",
+			[
+				215,
+				175,
+				0
+			]
+		],
+		[
+			"toxic",
+			"sammool",
+			[
+				215,
+				175,
+				0
+			]
+		],
+		[
+			"hacker",
+			"sammool",
+			[
+				215,
+				175,
+				0
+			]
+		]
+	],
+	"weekName": "sammoolweek"
+}

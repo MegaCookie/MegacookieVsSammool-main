@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nice wind effect asshole.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="airflow0000" x="1246" y="6847" width="1075" height="1229" frameX="-51" frameY="-987" frameWidth="1165" frameHeight="2845"/>
+	<SubTexture name="airflow0001" x="1246" y="5518" width="1076" height="1229" frameX="-48" frameY="-840" frameWidth="1165" frameHeight="2845"/>
+	<SubTexture name="airflow0002" x="1247" y="0" width="1081" height="1367" frameX="-30" frameY="-857" frameWidth="1165" frameHeight="2845"/>
+	<SubTexture name="airflow0003" x="1246" y="2584" width="1082" height="1367" frameX="-23" frameY="-680" frameWidth="1165" frameHeight="2845"/>
+	<SubTexture name="airflow0004" x="1246" y="4051" width="1081" height="1367" frameX="-19" frameY="-547" frameWidth="1165" frameHeight="2845"/>
+	<SubTexture name="airflow0005" x="0" y="2584" width="1146" height="2485" frameX="-19" frameY="-360" frameWidth="1165" frameHeight="2845"/>
+	<SubTexture name="airflow0006" x="0" y="5169" width="1146" height="2484" frameX="-12" frameY="-216" frameWidth="1165" frameHeight="2845"/>
+	<SubTexture name="airflow0007" x="0" y="0" width="1147" height="2484" frameX="0" frameY="0" frameWidth="1165" frameHeight="2845"/>
+</TextureAtlas>

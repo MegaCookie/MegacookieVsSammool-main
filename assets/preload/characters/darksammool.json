@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-260,
+				-108
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Sammool DEAD loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-217,
+				-10
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Sammool DEAD end",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-130,
+				138
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Block",
+			"indices": [],
+			"name": "sammoolBlock"
+		},
+		{
+			"offsets": [
+				-131,
+				142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sammoolRight"
+		},
+		{
+			"offsets": [
+				-131,
+				142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "sammoolMISSRight"
+		},
+		{
+			"offsets": [
+				-123,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sammoolDown"
+		},
+		{
+			"offsets": [
+				-123,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "sammoolMISSDown"
+		},
+		{
+			"offsets": [
+				-95,
+				146
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sammoolLeft"
+		},
+		{
+			"offsets": [
+				-93,
+				146
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "sammoolMISSLeft"
+		},
+		{
+			"offsets": [
+				-103,
+				222
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sammoolUp"
+		},
+		{
+			"offsets": [
+				-103,
+				221
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "sammoolMISSUp"
+		},
+		{
+			"offsets": [
+				-107,
+				148
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sammoolIdle"
+		},
+		{
+			"offsets": [
+				419,
+				458
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "sammoolDEADstart"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sammooldark",
+	"position": [
+		-110,
+		250
+	],
+	"healthicon": "sammool",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		25
+	],
+	"camera_position": [
+		50,
+		-540
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				80,
+				-100
+			],
+			"idle_offsets": [
+				80,
+				-100
+			],
+			"loop_name": "MegaCookie Idle",
+			"idle_name": "MegaCookie Idle"
+		},
+		{
+			"loop_offsets": [
+				60,
+				-100
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				60,
+				-100
+			],
+			"loop_name": "MegaCookie Smug",
+			"idle_name": "MegaCookie Smug"
+		},
+		{
+			"loop_offsets": [
+				80,
+				-100
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				80,
+				-100
+			],
+			"loop_name": "MegaCookie Mad",
+			"idle_name": "MegaCookie Mad"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "BF SHOCK LOOP",
+			"idle_name": "BF SHOCK0"
+		},
+		{
+			"idle_offsets": [
+				80,
+				-100
+			],
+			"anim": "sad",
+			"loop_offsets": [
+				80,
+				-100
+			],
+			"idle_name": "MegaCookie Sad",
+			"loop_name": "MegaCookie Sad"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": ""
+		}
+	],
+	"image": "megacookieportraits"
+}

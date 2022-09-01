@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="platescharacters3.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="uhhh0000" x="0" y="0" width="1963" height="296"/>
+	<SubTexture name="uhhh0001" x="0" y="346" width="1963" height="262" frameX="0" frameY="-34" frameWidth="1963" frameHeight="296"/>
+	<SubTexture name="uhhh0002" x="0" y="658" width="1963" height="277" frameX="0" frameY="-19" frameWidth="1963" frameHeight="296"/>
+	<SubTexture name="uhhh0003" x="0" y="985" width="1963" height="283" frameX="0" frameY="-13" frameWidth="1963" frameHeight="296"/>
+	<SubTexture name="uhhh0004" x="0" y="0" width="1963" height="296"/>
+	<SubTexture name="uhhh0005" x="0" y="0" width="1963" height="296"/>
+	<SubTexture name="uhhh0006" x="0" y="0" width="1963" height="296"/>
+	<SubTexture name="uhhh0007" x="0" y="0" width="1963" height="296"/>
+	<SubTexture name="uhhh0008" x="0" y="0" width="1963" height="296"/>
+	<SubTexture name="uhhh0009" x="0" y="0" width="1963" height="296"/>
+</TextureAtlas>

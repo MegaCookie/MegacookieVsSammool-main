@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="newbouncesammool.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SammoolBounce0000" x="0" y="0" width="329" height="539" frameX="0" frameY="-24" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0001" x="429" y="0" width="329" height="539" frameX="0" frameY="-24" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0002" x="858" y="0" width="325" height="540" frameX="-3" frameY="-23" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0003" x="1283" y="0" width="325" height="540" frameX="-3" frameY="-23" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0004" x="1708" y="0" width="305" height="550" frameX="-17" frameY="-13" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0005" x="2113" y="0" width="305" height="550" frameX="-17" frameY="-13" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0006" x="3328" y="0" width="291" height="558" frameX="-28" frameY="-5" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0007" x="0" y="639" width="287" height="563" frameX="-31" frameY="0" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0008" x="387" y="639" width="287" height="563" frameX="-31" frameY="0" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0009" x="774" y="640" width="286" height="563" frameX="-32" frameY="0" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0010" x="0" y="639" width="287" height="563" frameX="-31" frameY="0" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0011" x="387" y="639" width="287" height="563" frameX="-31" frameY="0" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0012" x="774" y="640" width="286" height="563" frameX="-32" frameY="0" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0013" x="1547" y="650" width="288" height="553" frameX="-35" frameY="-10" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0014" x="1935" y="650" width="288" height="553" frameX="-35" frameY="-10" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0015" x="3117" y="658" width="298" height="526" frameX="-34" frameY="-37" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0016" x="3515" y="658" width="298" height="526" frameX="-34" frameY="-37" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0017" x="2323" y="650" width="297" height="529" frameX="-34" frameY="-34" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0018" x="2720" y="650" width="297" height="529" frameX="-34" frameY="-34" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0019" x="1547" y="650" width="288" height="553" frameX="-35" frameY="-10" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0020" x="1935" y="650" width="288" height="553" frameX="-35" frameY="-10" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0021" x="1160" y="640" width="287" height="560" frameX="-33" frameY="-3" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0022" x="0" y="639" width="287" height="563" frameX="-31" frameY="0" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0023" x="387" y="639" width="287" height="563" frameX="-31" frameY="0" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0024" x="774" y="640" width="286" height="563" frameX="-32" frameY="0" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0025" x="0" y="639" width="287" height="563" frameX="-31" frameY="0" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0026" x="387" y="639" width="287" height="563" frameX="-31" frameY="0" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0027" x="774" y="640" width="286" height="563" frameX="-32" frameY="0" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0028" x="2518" y="0" width="305" height="550" frameX="-17" frameY="-13" frameWidth="332" frameHeight="563"/>
+	<SubTexture name="SammoolBounce0029" x="2923" y="0" width="305" height="550" frameX="-17" frameY="-13" frameWidth="332" frameHeight="563"/>
+</TextureAtlas>

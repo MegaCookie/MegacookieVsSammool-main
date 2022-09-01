@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				201,
+				154
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				58,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MCUp MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MegaCookie Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				54
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MegaCookie Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				463,
+				256
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "MegaCookie Death Start"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-34,
+				-139
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "MegaCookie Death Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-45
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "MegaCookie Death End",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MegaCookie Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-70
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MCDown MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				62
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MegaCookie Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				62
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MCRight MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				41
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MegaCookie Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				41
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MCLeft MISS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/megacookieup",
+	"position": [
+		200,
+		160
+	],
+	"healthicon": "megacookie",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		46,
+		0
+	],
+	"camera_position": [
+		170,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

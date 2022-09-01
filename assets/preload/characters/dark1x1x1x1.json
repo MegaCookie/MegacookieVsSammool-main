@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-61,
+				40
+			],
+			"loop": false,
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Pico NOTE LEFT miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				62,
+				64
+			],
+			"loop": false,
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Pico Note Right Miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-19,
+				67
+			],
+			"loop": false,
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "pico Up note miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "",
+			"indices": [],
+			"name": ""
+		},
+		{
+			"offsets": [
+				-122,
+				149
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "talkloop",
+			"indices": [],
+			"name": "talk loop"
+		},
+		{
+			"offsets": [
+				-122,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "talkstart",
+			"indices": [],
+			"name": "talkstart"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-122,
+				149
+			],
+			"anim": "pointstart",
+			"fps": 24,
+			"name": "pointstart",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-122,
+				149
+			],
+			"anim": "pointloop",
+			"fps": 24,
+			"name": "pointloop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-122,
+				148
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "thumbpoint",
+			"indices": [],
+			"name": "thumbstart"
+		},
+		{
+			"offsets": [
+				694,
+				620
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Punch",
+			"indices": [],
+			"name": "1x1x1x1 Punch"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				310
+			],
+			"anim": "reveal",
+			"fps": 24,
+			"name": "1x1x1x1 Reveal",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				235,
+				406
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "1x1x1x1 Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-406,
+				176
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "1x1x1x1 Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-28
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Pico Down Note MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				308
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "1x1x1x1 Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				320
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "1x1x1x1 Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				252
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "1x1x1x1 Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/1x1x1x1dark",
+	"position": [
+		-80,
+		140
+	],
+	"healthicon": "1x1x1x1",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		51,
+		0
+	],
+	"camera_position": [
+		-160,
+		-840
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

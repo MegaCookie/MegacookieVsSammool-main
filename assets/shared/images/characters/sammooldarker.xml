@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sammooldarker.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sammool Block0000" x="2646" y="4130" width="231" height="547" frameX="-6" frameY="0" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool Block0001" x="2977" y="4130" width="231" height="547" frameX="-6" frameY="0" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool Block0002" x="7854" y="2552" width="233" height="524" frameX="0" frameY="-18" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool Block0003" x="1721" y="4131" width="233" height="524" frameX="0" frameY="-18" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool Block0004" x="6794" y="4141" width="224" height="530" frameX="-9" frameY="-12" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool Block0005" x="2054" y="4131" width="225" height="530" frameX="-8" frameY="-12" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool Block0006" x="2646" y="4130" width="231" height="547" frameX="-6" frameY="0" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool Block0007" x="2977" y="4130" width="231" height="547" frameX="-6" frameY="0" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool Block0008" x="2646" y="4130" width="231" height="547" frameX="-6" frameY="0" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool Block0009" x="2977" y="4130" width="231" height="547" frameX="-6" frameY="0" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool Block0010" x="2646" y="4130" width="231" height="547" frameX="-6" frameY="0" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool Block0011" x="2977" y="4130" width="231" height="547" frameX="-6" frameY="0" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool Block0012" x="2646" y="4130" width="231" height="547" frameX="-6" frameY="0" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool Block0013" x="2977" y="4130" width="231" height="547" frameX="-6" frameY="0" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool Block0014" x="2646" y="4130" width="231" height="547" frameX="-6" frameY="0" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool Block0015" x="2977" y="4130" width="231" height="547" frameX="-6" frameY="0" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool Block0016" x="2646" y="4130" width="231" height="547" frameX="-6" frameY="0" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool Block0017" x="2977" y="4130" width="231" height="547" frameX="-6" frameY="0" frameWidth="237" frameHeight="547"/>
+	<SubTexture name="Sammool DEAD end0000" x="7871" y="0" width="194" height="207" frameX="-40" frameY="0" frameWidth="274" frameHeight="207"/>
+	<SubTexture name="Sammool DEAD end0001" x="0" y="4192" width="274" height="72" frameX="0" frameY="-67" frameWidth="274" frameHeight="207"/>
+	<SubTexture name="Sammool DEAD end0002" x="7871" y="307" width="212" height="88" frameX="-32" frameY="-59" frameWidth="274" frameHeight="207"/>
+	<SubTexture name="Sammool DEAD end0003" x="4136" y="4142" width="230" height="88" frameX="-23" frameY="-59" frameWidth="274" frameHeight="207"/>
+	<SubTexture name="Sammool DEAD end0004" x="3790" y="4142" width="246" height="88" frameX="-15" frameY="-59" frameWidth="274" frameHeight="207"/>
+	<SubTexture name="Sammool DEAD end0005" x="7871" y="1363" width="194" height="72" frameX="-40" frameY="-67" frameWidth="274" frameHeight="207"/>
+	<SubTexture name="Sammool DEAD end0006" x="7871" y="1363" width="194" height="72" frameX="-40" frameY="-67" frameWidth="274" frameHeight="207"/>
+	<SubTexture name="Sammool DEAD end0007" x="7871" y="1363" width="194" height="72" frameX="-40" frameY="-67" frameWidth="274" frameHeight="207"/>
+	<SubTexture name="Sammool DEAD end0008" x="7871" y="1363" width="194" height="72" frameX="-40" frameY="-67" frameWidth="274" frameHeight="207"/>
+	<SubTexture name="Sammool DEAD end0009" x="7871" y="1363" width="194" height="72" frameX="-40" frameY="-67" frameWidth="274" frameHeight="207"/>
+	<SubTexture name="Sammool DEAD end0010" x="7871" y="1363" width="194" height="72" frameX="-40" frameY="-67" frameWidth="274" frameHeight="207"/>
+	<SubTexture name="Sammool DEAD end0011" x="7871" y="1363" width="194" height="72" frameX="-40" frameY="-67" frameWidth="274" frameHeight="207"/>
+	<SubTexture name="Sammool DEAD end0012" x="7871" y="1363" width="194" height="72" frameX="-40" frameY="-67" frameWidth="274" frameHeight="207"/>
+	<SubTexture name="Sammool DEAD end0013" x="7871" y="1363" width="194" height="72" frameX="-40" frameY="-67" frameWidth="274" frameHeight="207"/>
+	<SubTexture name="Sammool DEAD end0014" x="7871" y="495" width="197" height="76" frameX="-40" frameY="-67" frameWidth="274" frameHeight="207"/>
+	<SubTexture name="Sammool DEAD loop0000" x="7871" y="1535" width="194" height="72" frameX="0" frameY="0" frameWidth="195" frameHeight="72"/>
+	<SubTexture name="Sammool DEAD loop0001" x="7871" y="1535" width="194" height="72" frameX="0" frameY="0" frameWidth="195" frameHeight="72"/>
+	<SubTexture name="Sammool DEAD loop0002" x="7871" y="1535" width="194" height="72" frameX="0" frameY="0" frameWidth="195" frameHeight="72"/>
+	<SubTexture name="Sammool DEAD loop0003" x="7871" y="1707" width="194" height="72" frameX="0" frameY="0" frameWidth="195" frameHeight="72"/>
+	<SubTexture name="Sammool DEAD loop0004" x="7871" y="1707" width="194" height="72" frameX="0" frameY="0" frameWidth="195" frameHeight="72"/>
+	<SubTexture name="Sammool DEAD loop0005" x="7871" y="1707" width="194" height="72" frameX="0" frameY="0" frameWidth="195" frameHeight="72"/>
+	<SubTexture name="Sammool DEAD loop0006" x="7871" y="1879" width="194" height="72" frameX="-1" frameY="0" frameWidth="195" frameHeight="72"/>
+	<SubTexture name="Sammool DEAD loop0007" x="7871" y="1879" width="194" height="72" frameX="-1" frameY="0" frameWidth="195" frameHeight="72"/>
+	<SubTexture name="Sammool DEAD loop0008" x="7871" y="1879" width="194" height="72" frameX="-1" frameY="0" frameWidth="195" frameHeight="72"/>
+	<SubTexture name="Sammool DEAD start0000" x="0" y="0" width="1445" height="1098" frameX="0" frameY="-101" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0001" x="1545" y="0" width="1371" height="917" frameX="-98" frameY="0" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0002" x="3016" y="0" width="1354" height="876" frameX="-115" frameY="0" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0003" x="4470" y="0" width="1354" height="876" frameX="-115" frameY="0" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0004" x="5924" y="0" width="1354" height="876" frameX="-115" frameY="0" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0005" x="3016" y="976" width="1354" height="876" frameX="-115" frameY="0" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0006" x="4470" y="976" width="1354" height="876" frameX="-115" frameY="0" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0007" x="5924" y="976" width="1354" height="876" frameX="-115" frameY="0" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0008" x="1545" y="1017" width="1354" height="876" frameX="-115" frameY="0" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0009" x="0" y="1198" width="1354" height="876" frameX="-115" frameY="0" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0010" x="0" y="1198" width="1354" height="876" frameX="-115" frameY="0" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0011" x="2999" y="1952" width="1354" height="876" frameX="-115" frameY="0" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0012" x="4453" y="1952" width="1354" height="876" frameX="-115" frameY="0" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0013" x="5907" y="1952" width="1356" height="874" frameX="-113" frameY="0" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0014" x="1454" y="1993" width="1356" height="874" frameX="-113" frameY="0" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0015" x="0" y="2174" width="1114" height="651" frameX="-109" frameY="-227" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0016" x="0" y="2174" width="1114" height="651" frameX="-109" frameY="-316" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0017" x="3308" y="4142" width="382" height="307" frameX="-666" frameY="-362" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0018" x="3308" y="4142" width="382" height="307" frameX="-666" frameY="-362" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0019" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0020" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0021" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0022" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0023" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0024" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0025" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0026" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0027" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0028" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0029" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0030" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0031" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0032" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0033" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0034" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0035" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0036" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0037" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0038" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0039" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0040" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0041" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0042" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0043" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0044" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0045" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0046" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0047" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0048" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0049" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0050" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0051" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0052" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0053" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0054" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0055" x="0" y="0" width="0" height="0" frameX="-753" frameY="-72" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0056" x="7871" y="671" width="196" height="73" frameX="-1026" frameY="-286" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0057" x="7871" y="844" width="196" height="73" frameX="-1026" frameY="-286" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0058" x="7871" y="1017" width="196" height="73" frameX="-1026" frameY="-286" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool DEAD start0059" x="7871" y="1190" width="196" height="73" frameX="-1026" frameY="-286" frameWidth="1469" frameHeight="1199"/>
+	<SubTexture name="Sammool Down0000" x="4582" y="3555" width="305" height="474" frameX="0" frameY="-13" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0001" x="2696" y="3556" width="305" height="474" frameX="0" frameY="-13" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0002" x="6794" y="3554" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0003" x="3346" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0004" x="6794" y="3554" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0005" x="3346" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0006" x="6794" y="3554" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0007" x="3346" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0008" x="6794" y="3554" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0009" x="3346" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0010" x="6794" y="3554" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0011" x="3346" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0012" x="6794" y="3554" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0013" x="3346" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0014" x="6794" y="3554" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0015" x="3346" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0016" x="6794" y="3554" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0017" x="3346" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0018" x="6794" y="3554" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0019" x="3346" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0020" x="6794" y="3554" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0021" x="3346" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Down0022" x="6794" y="3554" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool Idle0000" x="1836" y="2967" width="330" height="490" frameX="0" frameY="-57" frameWidth="330" frameHeight="547"/>
+	<SubTexture name="Sammool Idle0001" x="2266" y="2967" width="330" height="490" frameX="0" frameY="-57" frameWidth="330" frameHeight="547"/>
+	<SubTexture name="Sammool Idle0002" x="5086" y="2928" width="318" height="521" frameX="-6" frameY="-26" frameWidth="330" frameHeight="547"/>
+	<SubTexture name="Sammool Idle0003" x="1418" y="2967" width="318" height="521" frameX="-6" frameY="-26" frameWidth="330" frameHeight="547"/>
+	<SubTexture name="Sammool Idle0004" x="5504" y="2928" width="302" height="534" frameX="-14" frameY="-13" frameWidth="330" frameHeight="547"/>
+	<SubTexture name="Sammool Idle0005" x="7270" y="3186" width="302" height="534" frameX="-14" frameY="-13" frameWidth="330" frameHeight="547"/>
+	<SubTexture name="Sammool Idle0006" x="982" y="3553" width="296" height="542" frameX="-17" frameY="-5" frameWidth="330" frameHeight="547"/>
+	<SubTexture name="Sammool Idle0007" x="6398" y="3554" width="296" height="542" frameX="-17" frameY="-5" frameWidth="330" frameHeight="547"/>
+	<SubTexture name="Sammool Idle0008" x="7672" y="3186" width="294" height="547" frameX="-18" frameY="0" frameWidth="330" frameHeight="547"/>
+	<SubTexture name="Sammool Idle0009" x="5086" y="3549" width="294" height="547" frameX="-18" frameY="0" frameWidth="330" frameHeight="547"/>
+	<SubTexture name="Sammool Idle0010" x="7672" y="3186" width="294" height="547" frameX="-18" frameY="0" frameWidth="330" frameHeight="547"/>
+	<SubTexture name="Sammool Idle0011" x="5086" y="3549" width="294" height="547" frameX="-18" frameY="0" frameWidth="330" frameHeight="547"/>
+	<SubTexture name="Sammool Idle0012" x="7672" y="3186" width="294" height="547" frameX="-18" frameY="0" frameWidth="330" frameHeight="547"/>
+	<SubTexture name="Sammool Idle0013" x="5086" y="3549" width="294" height="547" frameX="-18" frameY="0" frameWidth="330" frameHeight="547"/>
+	<SubTexture name="Sammool Left0000" x="5906" y="3560" width="247" height="533" frameX="-1" frameY="-4" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0001" x="0" y="3559" width="248" height="533" frameX="0" frameY="-4" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0002" x="1378" y="3588" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0003" x="7549" y="3833" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0004" x="1378" y="3588" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0005" x="7549" y="3833" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0006" x="1378" y="3588" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0007" x="7549" y="3833" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0008" x="1378" y="3588" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0009" x="7549" y="3833" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0010" x="1378" y="3588" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0011" x="7549" y="3833" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0012" x="1378" y="3588" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0013" x="7549" y="3833" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0014" x="1378" y="3588" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0015" x="7549" y="3833" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0016" x="1378" y="3588" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0017" x="7549" y="3833" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0018" x="1378" y="3588" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0019" x="7549" y="3833" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0020" x="1378" y="3588" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0021" x="7549" y="3833" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool Left0022" x="1378" y="3588" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSDown0000" x="1836" y="3557" width="305" height="474" frameX="0" frameY="-13" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0001" x="2241" y="3557" width="305" height="474" frameX="0" frameY="-13" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0002" x="3758" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0003" x="4170" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0004" x="3758" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0005" x="4170" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0006" x="3758" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0007" x="4170" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0008" x="3758" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0009" x="4170" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0010" x="3758" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0011" x="4170" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0012" x="3758" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0013" x="4170" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0014" x="3758" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0015" x="4170" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0016" x="3758" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0017" x="4170" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0018" x="3758" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0019" x="4170" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0020" x="3758" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0021" x="4170" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSDown0022" x="3758" y="3555" width="312" height="487" frameX="-1" frameY="0" frameWidth="313" frameHeight="487"/>
+	<SubTexture name="Sammool MISSLeft0000" x="5480" y="3562" width="247" height="533" frameX="-1" frameY="-4" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0001" x="348" y="3559" width="248" height="533" frameX="0" frameY="-4" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0002" x="7206" y="3820" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0003" x="4582" y="4129" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0004" x="7206" y="3820" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0005" x="4582" y="4129" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0006" x="7206" y="3820" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0007" x="4582" y="4129" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0008" x="7206" y="3820" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0009" x="4582" y="4129" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0010" x="7206" y="3820" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0011" x="4582" y="4129" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0012" x="7206" y="3820" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0013" x="4582" y="4129" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0014" x="7206" y="3820" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0015" x="4582" y="4129" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0016" x="7206" y="3820" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0017" x="4582" y="4129" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0018" x="7206" y="3820" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0019" x="4582" y="4129" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0020" x="7206" y="3820" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0021" x="4582" y="4129" width="242" height="537" frameX="-7" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSLeft0022" x="7206" y="3820" width="243" height="537" frameX="-6" frameY="0" frameWidth="249" frameHeight="537"/>
+	<SubTexture name="Sammool MISSRight0000" x="982" y="2925" width="336" height="528" frameX="-2" frameY="0" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0001" x="6398" y="2926" width="336" height="528" frameX="-2" frameY="0" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0002" x="3346" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0003" x="3781" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0004" x="3346" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0005" x="3781" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0006" x="3346" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0007" x="3781" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0008" x="3346" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0009" x="3781" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0010" x="3346" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0011" x="3781" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0012" x="3346" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0013" x="3781" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0014" x="3346" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0015" x="3781" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0016" x="3346" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0017" x="3781" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0018" x="3346" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0019" x="3781" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0020" x="3346" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0021" x="3781" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSRight0022" x="3346" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool MISSUp0000" x="7378" y="0" width="393" height="538" frameX="-3" frameY="0" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0001" x="7378" y="638" width="393" height="538" frameX="-3" frameY="0" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0002" x="7363" y="2552" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0003" x="0" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0004" x="7363" y="2552" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0005" x="0" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0006" x="7363" y="2552" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0007" x="0" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0008" x="7363" y="2552" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0009" x="0" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0010" x="7363" y="2552" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0011" x="0" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0012" x="7363" y="2552" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0013" x="0" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0014" x="7363" y="2552" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0015" x="0" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0016" x="7363" y="2552" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0017" x="0" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0018" x="7363" y="2552" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0019" x="0" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0020" x="7363" y="2552" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0021" x="0" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool MISSUp0022" x="7363" y="2552" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Right0000" x="6834" y="2926" width="336" height="528" frameX="-2" frameY="0" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0001" x="2910" y="2928" width="336" height="528" frameX="-2" frameY="0" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0002" x="4216" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0003" x="4651" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0004" x="4216" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0005" x="4651" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0006" x="4216" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0007" x="4651" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0008" x="4216" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0009" x="4651" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0010" x="4216" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0011" x="4651" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0012" x="4216" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0013" x="4651" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0014" x="4216" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0015" x="4651" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0016" x="4216" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0017" x="4651" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0018" x="4216" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0019" x="4651" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0020" x="4216" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0021" x="4651" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Right0022" x="4216" y="2928" width="335" height="527" frameX="0" frameY="-1" frameWidth="338" frameHeight="528"/>
+	<SubTexture name="Sammool Up0000" x="7378" y="1276" width="393" height="538" frameX="-3" frameY="0" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0001" x="7378" y="1914" width="393" height="538" frameX="-3" frameY="0" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0002" x="491" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0003" x="5907" y="2926" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0004" x="491" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0005" x="5907" y="2926" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0006" x="491" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0007" x="5907" y="2926" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0008" x="491" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0009" x="5907" y="2926" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0010" x="491" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0011" x="5907" y="2926" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0012" x="491" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0013" x="5907" y="2926" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0014" x="491" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0015" x="5907" y="2926" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0016" x="491" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0017" x="5907" y="2926" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0018" x="491" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0019" x="5907" y="2926" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0020" x="491" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0021" x="5907" y="2926" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+	<SubTexture name="Sammool Up0022" x="491" y="2925" width="391" height="534" frameX="0" frameY="-4" frameWidth="396" frameHeight="538"/>
+</TextureAtlas>

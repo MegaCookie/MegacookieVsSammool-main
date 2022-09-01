@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				40
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Pico NOTE LEFT miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				64
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Pico Note Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-28
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Pico Down Note MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				67
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico Up note miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-122,
+				149
+			],
+			"anim": "talkloop",
+			"fps": 24,
+			"name": "talk loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-122,
+				149
+			],
+			"anim": "talkstart",
+			"fps": 24,
+			"name": "talkstart",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-122,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pointstart",
+			"indices": [],
+			"name": "pointstart"
+		},
+		{
+			"offsets": [
+				-122,
+				149
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "pointloop",
+			"indices": [],
+			"name": "pointloop"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-122,
+				148
+			],
+			"anim": "thumbpoint",
+			"fps": 24,
+			"name": "thumbstart",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				236
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "1x1x1x1 Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-265,
+				556
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "1x1x1x1 Up"
+		},
+		{
+			"offsets": [
+				-160,
+				308
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "1x1x1x1 Right"
+		},
+		{
+			"offsets": [
+				-298,
+				312
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "1x1x1x1 Left"
+		},
+		{
+			"offsets": [
+				-86,
+				320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "1x1x1x1 Idle"
+		},
+		{
+			"offsets": [
+				-366,
+				460
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Punch",
+			"indices": [],
+			"name": "1x1x1x1 Punch"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/1x1x1x1flying",
+	"position": [
+		-760,
+		600
+	],
+	"healthicon": "1x1x1x1",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		51,
+		0
+	],
+	"camera_position": [
+		120,
+		-1470
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

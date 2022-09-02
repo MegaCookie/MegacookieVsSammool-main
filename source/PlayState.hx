@@ -560,6 +560,7 @@ class PlayState extends MusicBeatState
 				 blackTransition.screenCenter(X);
 				 blackTransition.updateHitbox();
 				 blackTransition.alpha = 0;
+				 blackTransition.dance(true);
 				 blackTransition.antialiasing = false;
 
 			case 'stage': //Week 1

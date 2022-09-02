@@ -81,6 +81,13 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+		    ['The Guys who Made the Mod'],
+			['MegaCookie',		'megacookie',		'made everything idk',						'https://cdn.discordapp.com/attachments/502242942417764352/950620274179579924/7fd.png',	'964B00'],
+			['TeeDeeGee',			'teedeegee',		'helped me out with like everything in the mod lol',					'https://twitter.com/TDGee_',		'0000FF'],
+			['Sammool',			'sammool',			'the guy who HACKS at plates of fate',				'https://www.youtube.com/watch?v=Dm0QqBKBukA',			'FFFF00'],
+			['Randoman',			'randoman',			'Made the original mod concept',				'https://twitter.com/MrRandoFromMan',			'FF0000'],
+			['the Rest of Videogame INC',			'vginc',			'you guys are cool',				'https://www.youtube.com/channel/UCiid7P7qVtBrFF4yc_lYfdQ',			'808080'],
+			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'river',			'Main Artist/Animator of Psych Engine',							'https://twitter.com/RiverOaken',		'B42F71'],

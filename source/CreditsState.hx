@@ -86,7 +86,6 @@ class CreditsState extends MusicBeatState
 			['TeeDeeGee',			'teedeegee',		'helped me out with like everything in the mod lol',					'https://twitter.com/TDGee_',		'0000FF'],
 			['Sammool',			'sammool',			'the guy who HACKS at plates of fate',				'https://www.youtube.com/watch?v=Dm0QqBKBukA',			'FFFF00'],
 			['Randoman',			'randoman',			'Made the original mod concept',				'https://twitter.com/MrRandoFromMan',			'FF0000'],
-			['the Rest of Videogame INC',			'vginc',			'you guys are cool',				'https://www.youtube.com/channel/UCiid7P7qVtBrFF4yc_lYfdQ',			'808080'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],

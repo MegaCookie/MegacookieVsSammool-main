@@ -8,6 +8,11 @@
 						"Add Camera Zoom",
 						"0.02",
 						"0.03"
+					],
+					[
+						"screen flash",
+						"",
+						""
 					]
 				]
 			],
@@ -258,6 +263,16 @@
 						"Add Camera Zoom",
 						"0.02",
 						"0.03"
+					]
+				]
+			],
+			[
+				48716.4179104477,
+				[
+					[
+						"screen flash",
+						"",
+						""
 					]
 				]
 			],
@@ -1062,6 +1077,16 @@
 				]
 			],
 			[
+				77373.1343283582,
+				[
+					[
+						"screen flash",
+						"",
+						""
+					]
+				]
+			],
+			[
 				83104.4776119403,
 				[
 					[
@@ -1443,11 +1468,6 @@
 						"Camera Visibility",
 						"0",
 						"1"
-					],
-					[
-						"gameover change",
-						"invisiblsammool",
-						""
 					]
 				]
 			],
@@ -2308,11 +2328,6 @@
 						"Change Character",
 						"dad",
 						"1x1x1x1darker"
-					],
-					[
-						"gameover change",
-						"sammooldarker",
-						""
 					]
 				]
 			],
@@ -2338,6 +2353,11 @@
 						"Add Camera Zoom",
 						"0.05",
 						"0.05"
+					],
+					[
+						"screen flash",
+						"",
+						""
 					]
 				]
 			],
@@ -2928,6 +2948,11 @@
 						"Add Camera Zoom",
 						"0.05",
 						"0.05"
+					],
+					[
+						"screen flash",
+						"",
+						""
 					]
 				]
 			],
@@ -3998,6 +4023,11 @@
 						"Add Camera Zoom",
 						"0.07",
 						"0.05"
+					],
+					[
+						"screen flash",
+						"",
+						""
 					]
 				]
 			]

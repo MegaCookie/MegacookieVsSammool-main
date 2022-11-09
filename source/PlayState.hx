@@ -204,6 +204,8 @@ class PlayState extends MusicBeatState
 	var dialogue:Array<String> = ['blah blah blah', 'coolswag'];
 	var dialogueJson:DialogueFile = null;
 
+	var whiteFlash:BGSprite;
+
 	var dadbattleBlack:BGSprite;
 	var dadbattleLight:BGSprite;
 	var dadbattleSmokes:FlxSpriteGroup;
@@ -490,7 +492,7 @@ class PlayState extends MusicBeatState
                  add (platesky);
 				 var bg:BGSprite = new BGSprite('platesbackground', -600, -300, 0.7, 0.7);
                  add (bg);
-				 var characters = new BGSprite('platescharacters1', -300, 215, 0.7, 0.7,['uhhh'], true);
+				 var characters = new BGSprite('platescharacters1', -400, 265, 0.7, 0.7,['uhhh'], true);
 				 add(characters);
 				 var plates:BGSprite = new BGSprite('platesplatforms', -600, -200, 1, 1);
                  add (plates);
@@ -500,7 +502,7 @@ class PlayState extends MusicBeatState
                  add (platesky);
 				 var bg:BGSprite = new BGSprite('platesbackground', -600, -300, 0.7, 0.7);
                  add (bg);
-				 var characters = new BGSprite('platescharacters2', -300, 215, 0.7, 0.7,['uhhh'], true);
+				 var characters = new BGSprite('platescharacters2', -400, 245, 0.7, 0.7,['uhhh'], true);
 				 add(characters);
 				 var plates:BGSprite = new BGSprite('landminestwo', -600, -200, 1, 1);
                  add (plates);
@@ -510,7 +512,7 @@ class PlayState extends MusicBeatState
                  add (platesky);
 				 var bg:BGSprite = new BGSprite('platesbackground', -600, -300, 0.7, 0.7);
                  add (bg);
-				 var characters = new BGSprite('platescharacters3', -300, 215, 0.7, 0.7,['uhhh'], true);
+				 var characters = new BGSprite('platescharacters3', -400, 130, 0.7, 0.7,['uhhh'], true);
 				 add(characters);
 				 var destructor = new BGSprite('DESTRUCTOR', -915, -600, 0.8, 0.8,['what in the fuck'], true);
 				 add(destructor);
@@ -562,6 +564,9 @@ class PlayState extends MusicBeatState
 				 blackTransition.alpha = 0;
 				 blackTransition.dance(true);
 				 blackTransition.antialiasing = false;
+				 whiteFlash = new BGSprite(null, -300, -250, 0, 0);
+				 whiteFlash.makeGraphic(Std.int(1920), Std.int(1080), FlxColor.WHITE);
+				 whiteFlash.alpha = 0;
 
 			case 'stage': //Week 1
 				var bg:BGSprite = new BGSprite('stageback', -600, -200, 0.9, 0.9);
@@ -916,6 +921,8 @@ class PlayState extends MusicBeatState
 				add(foregroundSprites);
 			case 'sky':
 			    add(blackTransition);
+				add(whiteFlash);
+
 		}
 
 		#if LUA_ALLOWED
@@ -3372,6 +3379,13 @@ class PlayState extends MusicBeatState
 
 	public function triggerEventNote(eventName:String, value1:String, value2:String) {
 		switch(eventName) {
+
+			case 'screen flash': // does a brightness flash
+				var time:Float = Std.parseFloat(value1);
+                if(ClientPrefs.flashing) whiteFlash.alpha = 1;
+				FlxTween.tween(whiteFlash, { alpha: 0 }, (1));
+				
+
 						
 			case 'gameover change':
                  var character:Int = Std.parseInt(value1);

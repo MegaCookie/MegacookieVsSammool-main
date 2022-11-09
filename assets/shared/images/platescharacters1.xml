@@ -2,17 +2,25 @@
 <TextureAtlas imagePath="platescharacters1.png">
 	<!-- Created with Adobe Animate version 20.0.0.17400 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="uhhh0000" x="0" y="0" width="1963" height="294" frameX="0" frameY="0" frameWidth="1963" frameHeight="295"/>
-	<SubTexture name="uhhh0001" x="0" y="344" width="1963" height="261" frameX="0" frameY="-34" frameWidth="1963" frameHeight="295"/>
-	<SubTexture name="uhhh0002" x="0" y="655" width="1963" height="275" frameX="0" frameY="-19" frameWidth="1963" frameHeight="295"/>
-	<SubTexture name="uhhh0003" x="0" y="980" width="1963" height="281" frameX="0" frameY="-13" frameWidth="1963" frameHeight="295"/>
-	<SubTexture name="uhhh0004" x="0" y="0" width="1963" height="294" frameX="0" frameY="0" frameWidth="1963" frameHeight="295"/>
-	<SubTexture name="uhhh0005" x="0" y="0" width="1963" height="294" frameX="0" frameY="0" frameWidth="1963" frameHeight="295"/>
-	<SubTexture name="uhhh0006" x="0" y="0" width="1963" height="294" frameX="0" frameY="0" frameWidth="1963" frameHeight="295"/>
-	<SubTexture name="uhhh0007" x="0" y="0" width="1963" height="294" frameX="0" frameY="0" frameWidth="1963" frameHeight="295"/>
-	<SubTexture name="uhhh0008" x="0" y="0" width="1963" height="294" frameX="0" frameY="0" frameWidth="1963" frameHeight="295"/>
-	<SubTexture name="uhhh0009" x="0" y="0" width="1963" height="294" frameX="0" frameY="0" frameWidth="1963" frameHeight="295"/>
-	<SubTexture name="uhhh0010" x="0" y="0" width="1963" height="294" frameX="0" frameY="0" frameWidth="1963" frameHeight="295"/>
-	<SubTexture name="uhhh0011" x="0" y="0" width="1963" height="294" frameX="0" frameY="0" frameWidth="1963" frameHeight="295"/>
-	<SubTexture name="uhhh0012" x="0" y="0" width="1963" height="294" frameX="0" frameY="0" frameWidth="1963" frameHeight="295"/>
+	<SubTexture name="uhhh0000" x="0" y="0" width="2270" height="243" frameX="-19" frameY="0" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0001" x="0" y="0" width="2270" height="243" frameX="-19" frameY="0" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0002" x="0" y="343" width="2307" height="201" frameX="0" frameY="-42" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0003" x="0" y="343" width="2307" height="201" frameX="0" frameY="-42" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0004" x="0" y="644" width="2277" height="232" frameX="-18" frameY="-11" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0005" x="0" y="644" width="2277" height="232" frameX="-18" frameY="-11" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0006" x="0" y="976" width="2271" height="237" frameX="-18" frameY="-6" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0007" x="0" y="976" width="2271" height="237" frameX="-18" frameY="-6" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0008" x="0" y="0" width="2270" height="243" frameX="-19" frameY="0" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0009" x="0" y="0" width="2270" height="243" frameX="-19" frameY="0" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0010" x="0" y="0" width="2270" height="243" frameX="-19" frameY="0" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0011" x="0" y="0" width="2270" height="243" frameX="-19" frameY="0" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0012" x="0" y="0" width="2270" height="243" frameX="-19" frameY="0" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0013" x="0" y="0" width="2270" height="243" frameX="-19" frameY="0" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0014" x="0" y="0" width="2270" height="243" frameX="-19" frameY="0" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0015" x="0" y="0" width="2270" height="243" frameX="-19" frameY="0" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0016" x="0" y="0" width="2270" height="243" frameX="-19" frameY="0" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0017" x="0" y="0" width="2270" height="243" frameX="-19" frameY="0" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0018" x="0" y="0" width="2270" height="243" frameX="-19" frameY="0" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0019" x="0" y="0" width="2270" height="243" frameX="-19" frameY="0" frameWidth="2307" frameHeight="243"/>
+	<SubTexture name="uhhh0020" x="0" y="0" width="2270" height="243" frameX="-19" frameY="0" frameWidth="2307" frameHeight="243"/>
 </TextureAtlas>

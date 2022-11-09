@@ -77,10 +77,12 @@ class ChartingState extends MusicBeatState
 	var eventStuff:Array<Dynamic> =
 	[
 		['', "Nothing. Yep, that's right."],
+		['screen flash', "screen flash 2nd value changes the time"],
 		['gameover change', "changes the gameover midsong so i wont have a stroke"],
 		['hide shit', "hides shit in fourht power"],
 		['transition thing', "should only be used in fourth power"],
 		['black background', "should also only be used in fourth power"],
+		['UI Visibility', "trolololol"],
 	    ['Camera Visibility', "dont remember"],
 		['Dadbattle Spotlight', "Used in Dad Battle,\nValue 1: 0/1 = ON/OFF,\n2 = Target Dad\n3 = Target BF"],
 		['Hey!', "Plays the \"Hey!\" animation from Bopeebo,\nValue 1: BF = Only Boyfriend, GF = Only Girlfriend,\nSomething else = Both.\nValue 2: Custom animation duration,\nleave it blank for 0.6s"],
